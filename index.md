@@ -1,6 +1,6 @@
 welcome!
 
-[aboutme](about)
+[About me](about)
 
 ##software architect's wedsite
 
