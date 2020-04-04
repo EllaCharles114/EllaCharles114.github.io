@@ -1,14 +1,14 @@
-welcome!
+# Welcome!
 
 [About me](about)
 
-##software architect's wedsite
+## software architect's wedsite
 
-here r my fav colours
+here are my fav colours
 
--pink 
--black
--white
+- pink 
+- black
+- white
 
 ![baby sea turtle](https://img1.etsystatic.com/066/1/7093079/il_570xN.783622635_n9xk.jpg)
 
