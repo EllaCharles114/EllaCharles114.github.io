@@ -1,3 +1,6 @@
 ##software architect's wedsite
 
-welcome to my code page 
+here r my fav colours
+
+pink 
+black
